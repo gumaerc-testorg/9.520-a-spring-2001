@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course assignments and a list
+  of available topics for the term paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 99a80988-883f-f1da-5334-0d2655d1ac10
 ---
